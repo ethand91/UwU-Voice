@@ -1,0 +1,52 @@
+# Python uwu~
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual envs nya~
+.venv/
+venv/
+env/
+ENV/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Generated audio files senpai ✨
+*.wav
+*.mp3
+*.ogg
+*.flac
+
+# Jupyter (just in case~)
+.ipynb_checkpoints/
+
+# Model cache / weights (these can be chonky!)
+*.bin
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+~/.cache/huggingface/
+
+# Env files (protect ur secrets uwu)
+.env
+.env.*
+
+# IDE stuff
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# macOS nya~
+.DS_Store
+
+# Logs
+*.log
+logs/

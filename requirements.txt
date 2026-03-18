@@ -1,0 +1,5 @@
+kittentts
+soundfile
+fastapi
+uvicorn[standard]
+pydantic
